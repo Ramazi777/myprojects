@@ -1,0 +1,1 @@
+This is a simple Python-based Dice Rolling Game, where the user decides whether to roll a dice. If they choose to roll, the program generates a random number between 1 and 6 (simulating a dice roll) and returns the result to the user.
